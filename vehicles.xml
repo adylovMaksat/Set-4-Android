@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vehicles>
+    <car>
+        <fuelType>6</fuelType>
+        <name>Honda Civic</name>
+    </car>
+    <motorboat>
+        <fuelType>1</fuelType>
+        <name>Super Boat</name>
+    </motorboat>
+    <bicycle>
+        <name>Giant</name>
+    </bicycle>
+    <scooter>
+        <name>Cool Scooter</name>
+    </scooter>
+    <bicycle>
+        <name>Canyon Grail</name>
+    </bicycle>
+</vehicles>
